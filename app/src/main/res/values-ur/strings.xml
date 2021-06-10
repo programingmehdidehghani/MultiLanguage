@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ملٹی زبان</string>
+
+    <string name="welcome">خوش آمدید</string>
+    <string name="email">ای میل</string>
+    <string name="password">پاس ورڈ</string>
+    <string name="login">لاگ ان کریں</string>
+    <string name="signUp">اکاؤنٹ نہیں ہے؟ سائن اپ</string>
+    <string name="changeLong">زبان تبدیل کریں</string>
+</resources>
